@@ -1,0 +1,15 @@
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\bin\Debug\net6.0\19.exe
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\bin\Debug\net6.0\19.deps.json
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\bin\Debug\net6.0\19.runtimeconfig.json
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\bin\Debug\net6.0\19.dll
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\bin\Debug\net6.0\19.pdb
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\obj\Debug\net6.0\19.csproj.AssemblyReference.cache
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\obj\Debug\net6.0\19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\obj\Debug\net6.0\19.AssemblyInfoInputs.cache
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\obj\Debug\net6.0\19.AssemblyInfo.cs
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\obj\Debug\net6.0\19.csproj.CoreCompileInputs.cache
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\obj\Debug\net6.0\19.dll
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\obj\Debug\net6.0\refint\19.dll
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\obj\Debug\net6.0\19.pdb
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\obj\Debug\net6.0\19.genruntimeconfig.cache
+C:\Users\Семья\Desktop\Дз\3 семинар ДЗ\19\obj\Debug\net6.0\ref\19.dll
